@@ -1,7 +1,7 @@
 
 <img width="1077" height="802" alt="page 1" src="https://github.com/user-attachments/assets/7ae4dc44-0c0d-4ff0-be52-6e20dc1006b5" />
 
-# **SaaS Churn ****&**** Unit Economics Analysis**
+# **SaaS Revenue ****&**** Churn Analysis**
 
 Evidence-Based Problem Solving, Not Just Diagnosis
 
