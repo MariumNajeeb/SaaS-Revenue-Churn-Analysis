@@ -1,5 +1,4 @@
 
-<img width="1077" height="802" alt="page 1" src="https://github.com/user-attachments/assets/7ae4dc44-0c0d-4ff0-be52-6e20dc1006b5" />
 
 # **SaaS Revenue ****&**** Churn Analysis**
 
@@ -9,7 +8,6 @@ Portfolio Case Study | Business Intelligence & Strategic Analysis
 
 ## The Board's Wake-Up Call
 
-<img width="1056" height="805" alt="page2" src="https://github.com/user-attachments/assets/8934159d-283f-4920-9027-ad2ef73b8c7a" />
 
 **Revenue is growing. Customer count is climbing. But the CFO just asked three questions executives dread:**
 
@@ -23,7 +21,6 @@ Portfolio Case Study | Business Intelligence & Strategic Analysis
 
 ## Situation: Where We Stand
 
-<img width="1058" height="801" alt="page3" src="https://github.com/user-attachments/assets/f77e56ba-e0b6-45b4-a22f-be3fd32a87a3" />
 
 **On the surface, the numbers look solid:**
 
@@ -39,7 +36,6 @@ The high-end looks bulletproof. But shift your lens downward, and the picture da
 
 ## Complication: The Hidden Crisis
 
-<img width="1061" height="782" alt="page4" src="https://github.com/user-attachments/assets/e1da7580-4853-4804-9a4b-1c9f6648c1f1" />
 
 **Buried in the data is a systemic churn crisis:**
 
@@ -63,7 +59,6 @@ The high-end looks bulletproof. But shift your lens downward, and the picture da
 
 The mistake companies make: They design solutions, then discover their assumptions were wrong. We will not do that.
 
-<img width="1060" height="801" alt="page 6" src="https://github.com/user-attachments/assets/049f137f-c124-4da7-95b3-511c9ded0aff" />
 
 **Our roadmap has three phases:**
 
@@ -77,7 +72,6 @@ The mistake companies make: They design solutions, then discover their assumptio
 
 Before we take action, we must answer these questions with evidence:
 
-<img width="1073" height="797" alt="page 7" src="https://github.com/user-attachments/assets/d7f90a20-95ad-440a-840c-da57c43ecf6b" />
 
 ### Research Initiative 1: Starter Customer Validation
 
@@ -135,7 +129,6 @@ The Question: Is reallocating marketing budget actually viable? Or are we assumi
 
 Based on Phase 0 findings, we run small-scale tests. No company-wide changes yet.
 
-<img width="1054" height="796" alt="page 8" src="https://github.com/user-attachments/assets/6610d9ec-f8e1-4e20-93ae-6cab4e3f5a60" />
 
 ### Pilot 1: Starter Pricing Test
 
@@ -185,7 +178,6 @@ If CAC audit shows Business/Enterprise acquisition is <2x Starter CAC:
 
 Roll out pilots that succeeded. Iterate on those that didn't. No guesses; only evidence.
 
-<img width="1057" height="798" alt="page 10" src="https://github.com/user-attachments/assets/9ab3a57a-aa7f-437b-9993-470b809cb166" />
 
 - **If Starter pricing test succeeded:** Roll out price increase to entire Starter base over 2 months
 
@@ -199,7 +191,6 @@ Roll out pilots that succeeded. Iterate on those that didn't. No guesses; only e
 
 Realistic targets based on typical intervention lift rates:
 
-<img width="1060" height="803" alt="page 11" src="https://github.com/user-attachments/assets/436abd04-cc07-4cf7-8f69-b68bf3f1bd31" />
 
 **Phase 0 Outcomes (Weeks 1-4):**
 
@@ -307,7 +298,6 @@ We will measure obsessively. Weekly dashboards for Phase 0 and Phase 1. Monthly 
 
 **AI was a tool for acceleration and validation. Not a replacement for thinking. This distinction matters.**vv
 
-<img width="1061" height="797" alt="page 13" src="https://github.com/user-attachments/assets/ca4dd565-8824-4dbf-a8f9-9647b8f3dbf4" />
 
 -----------------------------------------------------------------------------------------
 
