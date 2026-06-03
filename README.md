@@ -47,7 +47,7 @@ As the Business Intelligence Analyst, I cleaned and validated two datasets (subs
 | Metric                                      | Value                     | Insight                                                                 |
 |---------------------------------------------|---------------------------|-------------------------------------------------------------------------|
 | **Overall Churn Rate** (since 2022)         | 52.17% (313 of 600)       | 1 in 2 customers churned – high, but improving from early years.        |
-| **Churn Trend Over 4 Years**                | See yearly breakdown below | 2022 worst (7 critical months), 2024 best (0 critical), 2025 reversal (7 critical). |
+| **Churn Trend Over 4 Years**                | See yearly breakdown below | 2022 worst (7 critical months), 2023 (2 critical), 2024 best (0 critical), 2025 reversal (2 critical). |
 | **Plan with Highest Churn**                 | Starter – 70.5%           | 3x higher than Enterprise. Price + poor onboarding likely drivers.      |
 | **Billing Cycle Impact**                    | Monthly 60.5% vs Annual 40.3% | Annual contracts cut churn by 20 points – strong retention lever.   |
 | **Most Profitable Plan** (by CLV:CAC)       | Enterprise – 322.5x        | High revenue + long lifetime (22 months) → best unit economics.         |
@@ -68,7 +68,7 @@ As the Business Intelligence Analyst, I cleaned and validated two datasets (subs
 ### Q1: Overall & Monthly Churn Rate Trend (4‑Year View)
 
 **📌 One‑Sentence Summary**  
-Overall churn is 52.2%. Monthly churn improved dramatically from 2022 to 2024, but 2025 shows a reversal with 7 critical months.
+Overall churn is 52.2%. Monthly churn improved dramatically from 2022 to 2024, but 2025 shows a reversal with 2 critical months as were in 2023.
 
 **📊 Insight**  
 - **Overall churn:** 313 of 600 customers churned (52.17%).  
@@ -76,24 +76,25 @@ Overall churn is 52.2%. Monthly churn improved dramatically from 2022 to 2024, b
 
 | Year | Critical (>5%) | Good (<3%) | Average (3‑5%) |
 |------|----------------|------------|----------------|
-| 2022 | 7              | 2          | 1              |
+| 2022 | 7              | 4          | 1              |
 | 2023 | 2              | 3          | 7              |
 | 2024 | 0              | 1          | 11             |
-| 2025 | 7              | 2          | 1              |
+| 2025 | 2              | 3          | 7              |
 
 - **Worst year:** 2022 (7 critical months)
 - **Best year:** 2024 (zero critical months).  
-- **Concerning reversal:** 2025 has 7 critical months.
+- **Concerning reversal:** 2025 has 2 critical months, as were in 2023. 2023 & 2025 have the exact same count of critical, good and avg months. 
 - **Months since last critical:** 7 (as of Dec 2025) – a positive streak.
 
 **✅ Recommendation**  
-- Investigate Q1‑Q2 2025 changes (product releases, pricing, support, competition).  
+- Investigate changes in critical months of 2023 & 2025, i.e (product releases, pricing, support, competition).
+- Compare changes, investigate the mistakes we made in 2023 and are repeating in 2025 again.     
 - Build a **churn alert dashboard** that flags any month with churn >3% and triggers a root‑cause review.
 
 **💰 Impact**  
-- Stabilise monthly churn below 3% for 6+ consecutive months.  
-- Reduce annualised churn from ~15% to <10% by end of 2026.
-
+-Eliminate critical months in 2026 – breaks the “7 critical → improvement → reversal” cycle seen across 2022‑2025.
+-Save 3‑6 weeks of team firefighting currently spent on post‑critical‑month damage control.
+  
 ---
 
 ### Q2: Churn by Plan & Billing Cycle
