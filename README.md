@@ -183,7 +183,6 @@ Enterprise and Business plans are the most profitable (lowest churn, highest CLV
 - **Reduce Starter CAC** – shift acquisition to lower‑cost channels (referral, organic, self‑serve).  
 - **Increase Starter pricing** by $10‑15/mo after adding 2‑3 high‑request features.  
 - **Double down on Enterprise/Business** – allocate 60% of sales & marketing spend to these segments.  
-- Implement a **profitability guardrail:** if CLV < 2× CAC after 6 months, pause acquisition for that segment.
 
 **💰 Impact**  
 - Improve overall CLV:CAC ratio from ~12‑15x to 25‑30x.  
